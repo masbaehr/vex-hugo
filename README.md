@@ -70,7 +70,6 @@ $ hugo server --themesDir ../..
 * Powered by bootstrap 4 framework.
 * Product Showcase.
 * Product Details Page.
-* Snipcart Included.
 * Blog Post.
 * Contact Form.
 * Email Subscription Section.
@@ -80,7 +79,6 @@ $ hugo server --themesDir ../..
 
 * Multilingual Support.
 * Product Details Page.
-* Snipcart Included.
 * Blog Post.
 * Contact Form.
 
